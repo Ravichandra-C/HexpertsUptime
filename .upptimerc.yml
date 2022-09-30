@@ -15,11 +15,6 @@ status-website:
   name: Hexperts Uptime
   introTitle: Hexperts status
   introMessage: Monitoring Hexperts realtime status
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
