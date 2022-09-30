@@ -6,6 +6,7 @@ sites:
     url: https://www.google.com
   - name: Hexperts
     url: https://hexperts.hexagon.com
+    maxResponseTime: 50000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
