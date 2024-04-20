@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hexperts.hexagon.com.ico",
     "slug": "hexperts",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 325,
-    "timeWeek": 342,
-    "timeMonth": 348,
-    "timeYear": 359,
+    "time": 388,
+    "timeDay": 260,
+    "timeWeek": 334,
+    "timeMonth": 346,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2023-06-24": 20
     }
