@@ -4,19 +4,19 @@
     "url": "https://hexperts.hexagon.com",
     "icon": "https://icons.duckduckgo.com/ip3/hexperts.hexagon.com.ico",
     "slug": "hexperts",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 364,
-    "timeDay": 393,
-    "timeWeek": 424,
-    "timeMonth": 401,
+    "timeDay": 368,
+    "timeWeek": 412,
+    "timeMonth": 399,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2024-09-04": 0,
+      "2024-09-04": 27,
       "2024-05-02": 141
     }
   }
