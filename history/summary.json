@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hexperts.hexagon.com.ico",
     "slug": "hexperts",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.08%",
-    "uptimeYear": "98.09%",
+    "uptime": "99.36%",
+    "uptimeDay": "34.13%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "74.91%",
+    "uptimeYear": "97.91%",
     "time": 395,
-    "timeDay": 489,
-    "timeWeek": 420,
+    "timeDay": 407,
+    "timeWeek": 407,
     "timeMonth": 378,
-    "timeYear": 406,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2026-06-08": 706,
       "2026-06-07": 1440,
@@ -24,7 +24,8 @@
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 695,
-      "2026-06-15": 0
+      "2026-06-16": 319,
+      "2026-06-15": 629
     }
   }
 ]
